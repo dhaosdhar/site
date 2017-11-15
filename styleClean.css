@@ -1,0 +1,67 @@
+
+.logoClean{
+  position: absolute;
+  width: 100px;
+  height: 34px;
+  right: 2px;
+  top: -5px;
+}
+
+body{
+  background-color: #0098c1
+}
+
+a img {
+  border: none; /* enlever les bordures des images */
+}
+
+.SloganClean{
+  position: absolute;
+  right: 0px;
+  top: 15px;
+  color:gold;
+}
+
+
+.rechercheClean{
+  text-align: center;
+  background-color: #00c187;
+  height: 100px;
+  color: black;
+
+}
+
+.Bandeau{
+  width:880px;
+  height: 200px;
+}
+
+.BarreGauche{
+  position: fixed;
+  top:150px;
+}
+
+.bas{
+  position: absolute;
+  background-color: gold;
+  color:black;
+}
+
+.buttonCOMPTE{
+ position: absolute;
+  top: 55px;
+ right: 60px;
+  width:50px;
+  height: 50px;
+}
+.buttonPANIER{
+  position: absolute;
+  top: 55px;
+ right: 10px;
+  width:50px;
+  height: 50px;
+
+.categories{
+
+}
+
